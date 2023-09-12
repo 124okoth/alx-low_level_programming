@@ -1,1 +1,0 @@
-OxOF. C - Function pointers
